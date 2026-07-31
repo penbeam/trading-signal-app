@@ -738,6 +738,9 @@ st.markdown("""
 @st.cache_data
 def fetch_stock_data(ticker, start, end):
     try:
+        if ticker == "AAPL":
+            import time
+            time.sleep(1.5)  # Small delay to avoid rate limit
         stock = yf.Ticker(ticker)
         df = stock.history(start=start, end=end)
         if df.empty:
