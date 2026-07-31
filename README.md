@@ -15,7 +15,7 @@
 
 ## 🌐 **Live Demo**
 
-> 🚀 **Try it now:** [YOUR_LIVE_URL_HERE](https://penbeam-trading-signal-app.streamlit.app/)
+> 🚀 **Try it now:** [LIVE DEMO](https://penbeam-trading-signal-app.streamlit.app/)
 
 ### Quick Test:
 | Symbol | Company | Try It |
