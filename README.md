@@ -2,6 +2,6 @@
 
 ## 🌐 **Live Demo**
 
-> 🚀 **Try it now:** (https://penbeam-trading-signal-app.streamlit.app/)
+> 🚀 **Try it now:** [🔗 LIVE DEMO](https://penbeam-trading-signal-app.streamlit.app/)
 
 ---
